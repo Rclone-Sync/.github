@@ -1,5 +1,3 @@
-Put one file in an empty folder and copy it back. Do not leave tokens in a config on a shared PC. A login you were not given is not a remote to try. If the remote lists the wrong account, delete it and create it again. Do not copy yet. Look again.
-
 # rclone - Copy Files to a Remote You Control
 
 rclone copies files between this PC and a remote you configured: a server you administer, or a cloud account that is yours. Check the remote name and the path before you copy. A wrong destination can overwrite a folder you needed. It does not sign in to accounts you were not given, and the config file is a secret if it contains keys.
